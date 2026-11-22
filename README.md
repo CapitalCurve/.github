@@ -1,24 +1,17 @@
 # CapitalCurve organization profile
 
-Organization profile and navigation for CapitalCurve's software and advisory work.
-Product, client and infrastructure source belongs in its owning repository.
+The public introduction and repository links for CapitalCurve.
 
-## Ownership and status
+Edit [the organization profile](profile/README.md) to change what visitors see.
+Keep client information, credentials and private operating details out of it.
 
-Khaled and James maintain this repository. It contains no runtime, deployment or
-GitHub Actions workflow. Historical platform source belongs in recovery custody.
+## Repositories
 
-## Use
-
-Edit [the organization profile](profile/README.md) to update the public introduction.
-Keep credentials, client data and private operational details out of profile content.
+- [Shared platform](https://github.com/CapitalCurve/capitalcurve-platform)
+- [Infrastructure](https://github.com/CapitalCurve/capitalcurve-holdco-infra)
+- [Website](https://capitalcurve.com.au)
 
 ## Checks
 
-Review Markdown and links locally. There is no hosted check to dispatch.
-
-## Docs
-
-- [CapitalCurve](https://capitalcurve.com.au)
-- [Shared platform](https://github.com/CapitalCurve/capitalcurve-platform)
-- [Infrastructure and migration status](https://github.com/CapitalCurve/capitalcurve-holdco-infra)
+Review the Markdown and links before pushing. This repository has no application,
+deployment or GitHub Actions workflow.
